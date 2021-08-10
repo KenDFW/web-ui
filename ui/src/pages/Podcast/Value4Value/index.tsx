@@ -87,7 +87,7 @@ export default class Value4Value extends React.PureComponent<IProps> {
         return (
             <div className="v4v">
                 <h2>Value 4 Value Podcasts</h2>
-                <p>These podcasts are set up to receive Bitcoin payments in real-time over the Lightning network using compatible <b><a href="/apps">Podcasting 2.0 apps</a></b>.</p>
+                <p>These podcasts are <a href="https://github.com/Podcastindex-org/podcast-namespace/blob/main/value/value.md">set up</a> to receive Bitcoin payments in real-time over the Lightning network using compatible <b><a href="/apps">Podcasting 2.0 apps</a></b>.</p>
 
                 <br/>
 
